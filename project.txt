@@ -1,0 +1,2 @@
+{'sha1', 'sha512', 'sha3_512', 'whirlpool', 'shake_128', 'sha3_384', 'sha3_224', 'sm3', 'blake2s', 'sha256', 'md5-sha1', 'md5', 'ripemd160', 'sha224', 'sha512_256', 'sha384', 'shake_256', 'blake2b', 'md4', 'sha3_256', 'sha512_224'}
+> 
